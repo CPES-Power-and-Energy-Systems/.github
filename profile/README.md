@@ -17,7 +17,7 @@ As a dynamic research institution committed to advancing knowledge, fostering in
 
 Feel free to explore our open-source projects!
 
-### 2. Centre Projects and Publications
+### 2. Projects and Publications
 
 * [Featured Projects](https://www.inesctec.pt/en/centres/cpes#projects)
 * [Publications](https://www.inesctec.pt/en/centres/cpes#publications)
