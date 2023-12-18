@@ -1,6 +1,6 @@
 # INESC TEC Centre for Power and Energy Systems (CPES) 
 
-### 1. Who are we?
+### Who are we?
 
 [**INESC TEC Centre for Power and Energy Systems**](https://www.inesctec.pt/en/centres/cpes) is a world reference in large-scale integration of Distributed Energy Resources. 
 Our expertise led us to take on key roles in important EU projects and also led to contracts for development and consultancy with manufacturing equipment companies and with power generation, 
@@ -17,13 +17,13 @@ As a dynamic research institution committed to advancing knowledge, fostering in
 
 Feel free to explore our open-source projects!
 
-### 2. Projects and Publications
+### Projects and Publications
 
 * [Featured Projects](https://www.inesctec.pt/en/centres/cpes#projects)
 * [Publications](https://www.inesctec.pt/en/centres/cpes#publications)
 
 
-### 3. Connect with us:
+### Connect with us:
 
 * [Contacts](https://www.inesctec.pt/en/centres/cpes#contacts)
 * [INESC TEC Twitter](https://twitter.com/INESCTEC)
