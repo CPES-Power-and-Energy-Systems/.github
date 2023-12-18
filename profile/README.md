@@ -23,7 +23,7 @@ Feel free to explore our open-source projects!
 * [Publications](https://www.inesctec.pt/en/centres/cpes#publications)
 
 
-### Connect with us:
+### Connect with us
 
 * [Contacts](https://www.inesctec.pt/en/centres/cpes#contacts)
 * [INESC TEC Twitter](https://twitter.com/INESCTEC)
