@@ -1,3 +1,5 @@
+![CPES-banner](cpes-banner.png)
+
 # INESC TEC Centre for Power and Energy Systems (CPES) 
 
 ### Who are we?
