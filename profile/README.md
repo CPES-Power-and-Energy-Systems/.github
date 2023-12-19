@@ -1,5 +1,8 @@
 <!--![CPES-banner](https://raw.githubusercontent.com/CPES-Power-and-Energy-Systems/.github/main/profile/cpes-banner.png)-->
-<a href="url"><img src="https://raw.githubusercontent.com/CPES-Power-and-Energy-Systems/.github/main/profile/cpes-banner.png" align="center" width="80%" ></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CPES-Power-and-Energy-Systems/.github/main/profile/cpes-banner.png" width="90%"/>
+</p>
+
 
 # INESC TEC Centre for Power and Energy Systems (CPES) 
 
