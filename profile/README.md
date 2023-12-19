@@ -1,3 +1,5 @@
+![CPES-banner](https://raw.githubusercontent.com/CPES-Power-and-Energy-Systems/.github/main/profile/cpes-banner.png)
+
 # INESC TEC Centre for Power and Energy Systems (CPES) 
 
 ### Who are we?
