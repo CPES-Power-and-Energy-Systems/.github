@@ -12,7 +12,7 @@ Welcome to our Open Source contribution guidelines! Before you begin, it's essen
 
 ### Step-By-Step
 
-**Familiarize Yourself with our [Contributing Guidelines](./documents/contributing.md)**
+**Familiarize Yourself with our [Contributing Guidelines](./contributing.md)**
    - Review the guidelines outlining how to contribute to an OSS project repository effectively.
 
 **Understand the Project Structure and Codebase**
@@ -89,18 +89,18 @@ Stay informed about how your contributions impact the project's growth and engag
 
 Follow the step-by-step on how to contribute to our open-source projects.
 
-[Contributing Guidelines](./documents/contributing.md)
+[Contributing Guidelines](./contributing.md)
 
 
 ## Code Of Conduct
 
 Please familiarize yourself with this organization Code of Conduct.
 
-[Code Of Conduct](./documents/code_of_conduct.md)
+[Code Of Conduct](./code-of-conduct.md)
 
 
 ## Security
 
-Check what to do in case you find some potential vulnerability on AI4REALNET OSS.
+Check what to do in case you find some potential vulnerability.
 
-[Security](./documents/security.md)
+[Security](./security.md)

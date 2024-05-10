@@ -45,7 +45,7 @@ They hold the authority to remove, edit, or reject comments, commits, code, wiki
 
 ## Reporting Violations
 
-Code of Conduct violations can be reported to the designated Organization Stewards (contacts available on the [Organization Main Page](https://github.com/AI4REALNET)). The Organization Stewards will review the report, determine if a violation occurred, and administer appropriate sanctions, including warnings or expulsion from project-related spaces or forums. 
+Code of Conduct violations can be reported to the designated Organization Stewards (contacts available on the [Organization Main Page](https://github.com/CPES-Power-and-Energy-Systems)). The Organization Stewards will review the report, determine if a violation occurred, and administer appropriate sanctions, including warnings or expulsion from project-related spaces or forums. 
 The following information should be included in your report:
 
 - Contact (email).
