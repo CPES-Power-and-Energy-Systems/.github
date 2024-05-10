@@ -4,8 +4,7 @@
 ![logo](./profile/cpes-banner.png)
 
 ## Code Of Conduct
-### INESC TEC (CPES)
-#### Centre for Power and Energy Systems
+### INESC TEC - Centre for Power and Energy Systems (CPES)
 
 </div>
 
