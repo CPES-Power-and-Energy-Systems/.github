@@ -23,13 +23,13 @@ Feel free to explore our **open-source projects**!
 
 We are dedicated to creating a community where everyone feels valued and included. To achieve this goal, we have developed a set of open-source guidelines that promote good practices in the key aspects of an open-source organization, from Code Development to Quality Control, Risk Identification, and Mitigation.  
 
-We strongly recommend that you start by reading our guidelines and principles on [How To Contribute to Open-Source](https://github.com/CPES-Power-and-Energy-Systems/.github/blob/main/oss-guidelines.md). 
+We strongly recommend that you start by reading our guidelines and principles on [How To Contribute to Open-Source](../oss-guidelines.md). 
 
-Please note that compliance with this organization's [Code of Conduct](https://github.com/CPES-Power-and-Energy-Systems/.github/blob/main/code-of-conduct.md) is required for anyone participating in its open-source initiatives.
+Please note that compliance with this organization's [Code of Conduct](../code-of-conduct.md) is required for anyone participating in its open-source initiatives.
 
 ### Security problems
 
-If you discover any security problems or vulnerabilities in the source code of any repository belonging to this organization, please report them in accordance with the guidelines outlined in the [Security](https://github.com/CPES-Power-and-Energy-Systems/.github/blob/main/security.md) document.
+If you discover any security problems or vulnerabilities in the source code of any repository belonging to this organization, please report them in accordance with the guidelines outlined in the [Security](../security.md) document.
 
 ### OSS Organization Stewards
 
