@@ -25,7 +25,7 @@ We are dedicated to creating a community where everyone feels valued and include
 
 We strongly recommend that you start by reading our guidelines and principles on [How To Contribute to Open-Source](https://github.com/CPES-Power-and-Energy-Systems/.github/blob/main/oss-guidelines.md). 
 
-Please note that compliance with this organization's [Code of Conduct](https://github.com/CPES-Power-and-Energy-Systems/.github/blob/main/code-of-conduct.md) is required for anyone participating in AI4REALNET's open-source initiatives.
+Please note that compliance with this organization's [Code of Conduct](https://github.com/CPES-Power-and-Energy-Systems/.github/blob/main/code-of-conduct.md) is required for anyone participating in its open-source initiatives.
 
 ### Security problems
 
