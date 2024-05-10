@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](../assets/logo.png)
+![logo](./profile/cpes-banner.png)
 
 ## Security
 </div>
