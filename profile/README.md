@@ -2,6 +2,9 @@
 
 # INESC TEC Centre for Power and Energy Systems (CPES) 
 
+> [!IMPORTANT]  
+> This organization is currently being migrated to [INESC TEC Official GitHub Organization](https://github.com/INESCTEC).
+
 ### Who are we?
 
 [**INESC TEC Centre for Power and Energy Systems**](https://www.inesctec.pt/en/centres/cpes) is a world reference in large-scale integration of Distributed Energy Resources. 
